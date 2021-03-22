@@ -1,4 +1,4 @@
-# Fonts-HD-Recreation
+# Fonts-HD-recreation
 
 Fonts recreation is already functional, just put these four files in "...\LucasArts\Infernal Machine\Resource\mat"
 
