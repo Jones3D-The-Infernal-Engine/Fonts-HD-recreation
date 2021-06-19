@@ -1,7 +1,6 @@
-# Fonts-HD-recreation
+# Recreated HD fonts for Indiana Jones and The Infernal Machine
+This repository contains recreated HD fonts (not upscaled).  
+You can download the latest version from the [releases](https://github.com/Jones3D-The-Infernal-Engine/Fonts-HD-recreation/releases) page.  
+To install, extract the content from zip into "...\LucasArts\Infernal Machine\Resource\mat"  
 
-Fonts recreation is already functional, just put these four files in "...\LucasArts\Infernal Machine\Resource\mat"
-
-![alt text](https://raw.githubusercontent.com/Jones3D-The-Infernal-Engine/Fonts-HD-Recreation/main/font.jpg?raw=true)
-
-# End
+![preview](https://raw.githubusercontent.com/Jones3D-The-Infernal-Engine/Fonts-HD-Recreation/main/font.jpg?raw=true)
